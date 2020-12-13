@@ -1,0 +1,7 @@
+D:\geekbrains\HW1\hw1\task_3_HW1\bin\Debug\task_3_HW1.exe.config
+D:\geekbrains\HW1\hw1\task_3_HW1\bin\Debug\task_3_HW1.exe
+D:\geekbrains\HW1\hw1\task_3_HW1\bin\Debug\task_3_HW1.pdb
+D:\geekbrains\HW1\hw1\task_3_HW1\obj\Debug\task_3_HW1.csproj.CoreCompileInputs.cache
+D:\geekbrains\HW1\hw1\task_3_HW1\obj\Debug\task_3_HW1.exe
+D:\geekbrains\HW1\hw1\task_3_HW1\obj\Debug\task_3_HW1.pdb
+D:\geekbrains\HW1\hw1\task_3_HW1\obj\Debug\task_3_HW1.csprojAssemblyReference.cache

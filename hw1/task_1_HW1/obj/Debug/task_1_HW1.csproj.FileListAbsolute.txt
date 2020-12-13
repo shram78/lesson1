@@ -1,0 +1,14 @@
+D:\geekbrains\HW1\hw1\task_1_HW1\obj\Debug\task_1_HW1.csprojAssemblyReference.cache
+D:\geekbrains\HW1\hw1\task_1_HW1\obj\Debug\task_1_HW1.csproj.CoreCompileInputs.cache
+D:\geekbrains\HW1\hw1\task_1_HW1\bin\Debug\task_1_HW1_QUESTIONNAIRE.exe.config
+D:\geekbrains\HW1\hw1\task_1_HW1\bin\Debug\task_1_HW1_QUESTIONNAIRE.exe
+D:\geekbrains\HW1\hw1\task_1_HW1\bin\Debug\task_1_HW1_QUESTIONNAIRE.pdb
+D:\geekbrains\HW1\hw1\task_1_HW1\obj\Debug\task_1_HW1_QUESTIONNAIRE.exe
+D:\geekbrains\HW1\hw1\task_1_HW1\obj\Debug\task_1_HW1_QUESTIONNAIRE.pdb
+D:\geekbrains\lesson1\hw1\task_1_HW1\bin\Debug\task_1_HW1_QUESTIONNAIRE.exe.config
+D:\geekbrains\lesson1\hw1\task_1_HW1\bin\Debug\task_1_HW1_QUESTIONNAIRE.exe
+D:\geekbrains\lesson1\hw1\task_1_HW1\bin\Debug\task_1_HW1_QUESTIONNAIRE.pdb
+D:\geekbrains\lesson1\hw1\task_1_HW1\obj\Debug\task_1_HW1.csprojAssemblyReference.cache
+D:\geekbrains\lesson1\hw1\task_1_HW1\obj\Debug\task_1_HW1.csproj.CoreCompileInputs.cache
+D:\geekbrains\lesson1\hw1\task_1_HW1\obj\Debug\task_1_HW1_QUESTIONNAIRE.exe
+D:\geekbrains\lesson1\hw1\task_1_HW1\obj\Debug\task_1_HW1_QUESTIONNAIRE.pdb
